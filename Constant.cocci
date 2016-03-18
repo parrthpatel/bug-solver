@@ -1,5 +1,4 @@
 // This semantic patch is for constant_<foo> function.
-// More can be found at https://goo.gl/K6aOE4
 @@expression x;@@
 
 (
